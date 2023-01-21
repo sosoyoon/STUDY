@@ -2,13 +2,14 @@
 
 <table>
     <tr>
-        <td><a href="#tit1" style="color: #333; text-decoration: none;">1. 소프트웨어 설계</a></td>
-        <td><a href="#tit2" style="color: #333; text-decoration: none;">2. 소프트웨어 개발</a></td>
-        <td><a href="#tit3" style="color: #333; text-decoration: none;">3. 데이터베이스 구축</a></td>
-        <td><a href="#tit4" style="color: #333; text-decoration: none;">4. 프로그래밍 언어 활용</a></td>
-        <td><a href="#tit5" style="color: #333; text-decoration: none;">5. 정보 시스템 구축 관리</a></td>
+        <td><a href="#tit1" style="text-decoration: none;">1. 소프트웨어 설계</a></td>
+        <td><a href="#tit2" style="text-decoration: none;">2. 소프트웨어 개발</a></td>
+        <td><a href="#tit3" style="text-decoration: none;">3. 데이터베이스 구축</a></td>
+        <td><a href="#tit4" style="text-decoration: none;">4. 프로그래밍 언어 활용</a></td>
+        <td><a href="#tit5" style="text-decoration: none;">5. 정보 시스템 구축 관리</a></td>
     </tr>
 </table>
+<br><br>
 
 ## <p id="tit1">1️⃣ 소프트 웨어 설계</p>
 ### 1. 현행시스템 분석
